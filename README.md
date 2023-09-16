@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/aladdin-y?logo=github&style=for-the
 <h1 align="center"> 🙃 discord</h3>
 <div align="center">
 <a href="https://discord.com/users/376752463971352577" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/376752463971352577?animated=true" alt="Aladdin">
+    <img src="https://lanyard.cnrad.dev/api/376752463971352577?animated=true?hideBadges=false" alt="Aladdin">
 </a>
 </div>
 
